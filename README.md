@@ -19,6 +19,6 @@ $ ls
 
 # Running script
 
-$ cd SpamWa
+$ cd Mbf-Fb
 
 $ python Run.py
